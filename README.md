@@ -5,7 +5,7 @@ Learnova is a **Course Registration System** developed using **C++ (Qt Framework
 It provides two modules: **Admin** and **User**, offering an interactive GUI and reliable data management.
 
 ---
-###🎥 Demo
+### 🎥 Demo
 
 Check out the video demonstration [here](https://drive.google.com/drive/folders/1cwssQzGbrD0vIiJT7ejfffZLxsbYT2KS?usp=drive_link) 
 ##  Features
