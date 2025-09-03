@@ -33,7 +33,3 @@ Check out the video demonstration [here](https://drive.google.com/drive/folders/
 - **Python** (Email verification)  
 - **CSV Handling**  
 - **PDF Generation**
-
----
-
-## 📂 Project Structure
